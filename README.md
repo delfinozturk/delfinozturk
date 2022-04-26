@@ -6,7 +6,7 @@ Teacher and Front-End Developer
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [ozturkdelfin@gmail.com](mailto:ozturkdelfin@gmail.com)
-* [Grogu](https://c.tenor.com/ympcCN_fln8AAAAd/baby-yoda-the-mandalorian.gif)
+* ![Grogu](https://c.tenor.com/ympcCN_fln8AAAAd/baby-yoda-the-mandalorian.gif)
 
 ### Skills
 
